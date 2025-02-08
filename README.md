@@ -9,5 +9,5 @@ assemble two datasets with the most relevant features and then evaluate the perf
 interpretable (supervised and unsupervised) ML algorithms on the binary classification problem of
 distinguishing between normal and anomalous traffic. In this process, we formulate several hypotheses
 that are tested throughout the paper, and make some assumptions to simplify the otherwise intractable
-analysis. In the end, we leverage the trade-off between performance and privacy by employing the
+analysis. In the end, we explore the trade-off between performance and privacy by employing the
 ϵ-differential privacy technique.
