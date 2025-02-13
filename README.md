@@ -1,5 +1,5 @@
 # Anomaly-Detection-in-Cyber-Security
-In this paper we investigate the effectiveness with which cyber-attacks in client-server networks can
+In this project, we investigate the effectiveness with which cyber-attacks in client-server networks can
 be detected with the help of machine learning algorithms. Basing ourselves on previous research papers,
 chiefly Al Nuaimi et al., and taking inspiration from pre-existing datasets, mainly the Edge-IIOT-2022,
 we pursue to verify their findings and possibly expand them, drawing further conclusions on the
