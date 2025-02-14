@@ -2,13 +2,13 @@ import paramiko
 import random
 import time
 
-hostname = "172.232.219.66" # yout server host
+hostname = "172.232.219.66" # your server host
 port = 22  
 
 
 users = [
-    {"username": "root", "password": "ProvaToto03!"},
-    {"username": "user1", "password": "Toto1"}
+    {"username": "root", "password": "ciao1"},
+    {"username": "user1", "password": "ciao2"}
 ]
 
 # Normal commands that uses SHH
